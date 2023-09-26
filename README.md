@@ -15,8 +15,9 @@ This is done using Modbus communication protocol.
 To use this project, follow these steps:
 
 1. Upload the C++ program to the Arduino.
-2. Run the Java program and choose the correct Serial Port.
-3. Use the UI to interact with the Arduino Board and vice versa.
+2. Import the libraries "SteelSeries" and "trident" on Java.
+3. Run the Java program and choose the correct Serial Port.
+4. Use the UI to interact with the Arduino Board and vice versa.
 
 Contributing:
 
