@@ -10,7 +10,7 @@ Consisting of two parts:
 The two parts of the project work together to create a synchronous environment with instant visibility of what's happening. 
 This is done using Modbus communication protocol.
 
-
+![image](https://github.com/JCamacho4/DomoticArduinoJava/assets/100539990/0d7f6986-cd1f-4c8d-b650-2c96beaea7fb)
 
 To use this project, follow these steps:
 
